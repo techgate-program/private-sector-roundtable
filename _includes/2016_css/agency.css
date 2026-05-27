@@ -754,8 +754,9 @@ body {
 
 /* TIME */
 .agenda-time {
-  min-width: 140px;
+  min-width: 160px;
   font-weight: 600;
+  white-space: nowrap;
   color: #1f3a5f;
 }
 
